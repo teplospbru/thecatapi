@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thecatapi/static/css/main.20752788.css",
+    "main.js": "/thecatapi/static/js/main.43518f87.js",
+    "static/js/787.e96dcead.chunk.js": "/thecatapi/static/js/787.e96dcead.chunk.js",
+    "index.html": "/thecatapi/index.html",
+    "main.20752788.css.map": "/thecatapi/static/css/main.20752788.css.map",
+    "main.43518f87.js.map": "/thecatapi/static/js/main.43518f87.js.map",
+    "787.e96dcead.chunk.js.map": "/thecatapi/static/js/787.e96dcead.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20752788.css",
+    "static/js/main.43518f87.js"
+  ]
+}
